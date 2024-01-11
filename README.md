@@ -10,6 +10,7 @@ And I'm currently improving my skills in MERN stack.
 
 I design and develop experience that make people's lives simple.
 
+
 ##  My technical skills: 
 
 ### Front-End Development:
