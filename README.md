@@ -22,4 +22,3 @@ I design and develop experience that make people's lives simple.
 ### Web & Graphic Design: 
 >>>>>>> 2ab997b4f552e1a66c321d4ebcdebf9001b1cd6e
 - Adobe Photoshop | Adobe Illustrator | Adobe InDesign | Adobe Lightroom | Microsoft Publisher
-
