@@ -19,6 +19,6 @@ I design and develop experience that make people's lives simple.
 ### Backend Development:
 - Node.js | Express.js | MongoDB | PHP
 
-### Web & Graphic Design: 
->>>>>>> 2ab997b4f552e1a66c321d4ebcdebf9001b1cd6e
+### Web & Graphic Design:
+
 - Adobe Photoshop | Adobe Illustrator | Adobe InDesign | Adobe Lightroom | Microsoft Publisher
